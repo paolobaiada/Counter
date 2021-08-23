@@ -1,5 +1,5 @@
 # Counter
-# https://paolobaiada.github.io/
+
 ## This project is a simple counter with two buttons one of decrement and one of increment.
 
 ![Screenshot (5)](https://user-images.githubusercontent.com/89268273/130265592-911ed1f1-ac25-49cb-b563-fbb299769c76.png)
